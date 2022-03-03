@@ -1,0 +1,9 @@
+Testing Instructions:
+In the project's main directory, run the command "mvn compile exec:java"
+Once the server is started (Denoted by the output "Started@xxxxms"), open a web browser and browse to "localhost:4567"
+Click the "Sign-In" link to begin using the application
+
+Recommended Testing Route:
+Open two web browser sessions (Using a private tab is a good way to get two sessions running)
+Sign in to two different players on both sessions. Click on a player to start the game
+Play the game
